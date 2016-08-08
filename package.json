@@ -1,6 +1,6 @@
 {
   "name": "adminjs-datatables-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "packup datatables with webpack",
   "main": "index.js",
   "scripts": {
