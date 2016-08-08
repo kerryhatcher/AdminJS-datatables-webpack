@@ -16,5 +16,8 @@
     "angular-datatables": "^0.5.4",
     "datatables": "^1.10.12",
     "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "image-webpack-loader": "^2.0.0"
   }
 }
