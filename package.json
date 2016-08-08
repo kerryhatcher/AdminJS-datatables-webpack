@@ -1,0 +1,20 @@
+{
+  "name": "adminjs-datatables-webpack",
+  "version": "1.0.0",
+  "description": "packup datatables with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datatables",
+    "webpack"
+  ],
+  "author": "Kerry Hatcher <kwhatcher@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular-datatables": "^0.5.4",
+    "datatables": "^1.10.12",
+    "webpack": "^1.13.1"
+  }
+}
